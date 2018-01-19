@@ -1,0 +1,24 @@
+/*
+ * Copyright (c) Ce code est la propriété de Jangolo Sarl, Cette application est EXCLUSIVEMENT réservée à un usage interne de l'entreprise qui n'a par conséquent donné AUCUNE autorisation à qui que ce soit. Vous vous exposez de ce fait à des poursuites judiciaires si vous disposez de ce code.
+ */
+
+@charset "utf-8";
+
+a.m {
+    font-weight: bold;
+    text-decoration: none;
+    color: #648e2a;
+}
+
+a.m:hover, a.m:focus {
+    /*font-weight: bold;*/
+    color: #648e2a;
+    text-decoration: underline;
+
+}
+
+a.m:active {
+    text-decoration: underline;
+    color: #;
+}
+

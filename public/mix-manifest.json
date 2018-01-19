@@ -1,0 +1,12 @@
+{
+  "/js/app.js": "/js/app.js",
+  "/js/jangolo.js": "/js/jangolo.js",
+  "/js/bootstrap.js": "/js/bootstrap.js",
+  "/css/": "/css/",
+  "/css/all.css": "/css/all.css",
+  "/js/jquery-3.2.1.min.js": "/js/jquery-3.2.1.min.js",
+  "/js/angular.min.js": "/js/angular.min.js",
+  "/js/jangoloangular.js": "/js/jangoloangular.js",
+  "/js/bootstrap.min.js": "/js/bootstrap.min.js",
+  "/js/jquery-1.12.2.min.js": "/js/jquery-1.12.2.min.js"
+}
